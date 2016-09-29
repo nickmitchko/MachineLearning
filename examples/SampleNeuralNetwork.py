@@ -1,3 +1,7 @@
+#
+# Adapted from David Julian - Designing Machine Learning Systems in Python under the Fair Use Doctrine of US Copyright law
+# (used for research)
+#
 import sys
 import numpy
 from scipy.special import expit
